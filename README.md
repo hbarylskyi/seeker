@@ -10,4 +10,7 @@ sudo apt update
 
 sudo apt install git
 
+python -m pip install aider-install
+aider-install
+
 ```
